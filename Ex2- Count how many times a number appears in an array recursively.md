@@ -1,4 +1,4 @@
-<img width="985" height="540" alt="513331763-397a8639-8e9d-4bef-bb30-0a95baa40eb9" src="https://github.com/user-attachments/assets/e47aab29-25e3-4209-b87e-d950d6b786c7" /># Ex2 Count how many times a number appears in an array recursively.
+# Ex2 Count how many times a number appears in an array recursively.
 ## DATE:24.7.2026
 ## AIM:
 To write a Java program to Count how many times a number appears in an array recursively.
