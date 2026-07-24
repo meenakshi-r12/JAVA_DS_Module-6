@@ -48,4 +48,4 @@ public class Main {
 <img width="405" height="177" alt="513329926-22087b27-b119-42b0-90cc-cd6e365863d6" src="https://github.com/user-attachments/assets/fdd1b0f4-6481-42ce-8e0f-64ed63f2a91b" />
 
 ## Result:
-Thus the JAVA prograM ti find the minimum value (e.g., lowest heartbeat), implement a recursive method has implemented successfully
+Thus the JAVA program to find the minimum value (e.g., lowest heartbeat), implement a recursive method has implemented successfully
